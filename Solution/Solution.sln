@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timesheeting.Web", "Timesheeting.Web\Timesheeting.Web.csproj", "{8C041465-45EE-4EFD-8082-34A69FBDCD05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timesheeting.Web.Tests", "Timesheeting.Web.Tests\Timesheeting.Web.Tests.csproj", "{44FDB5C7-46E7-4341-8753-5320EF76A31B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timesheeting.Infrastructure", "Timesheeting.Infrastructure\Timesheeting.Infrastructure.csproj", "{973F7AB7-D24B-41B2-95E6-2BDD979B7135}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timesheeting.Core", "Timesheeting.Core\Timesheeting.Core.csproj", "{E3CB1034-256A-4F42-BB66-25C5955DFDD1}"
@@ -21,10 +19,6 @@ Global
 		{8C041465-45EE-4EFD-8082-34A69FBDCD05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C041465-45EE-4EFD-8082-34A69FBDCD05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C041465-45EE-4EFD-8082-34A69FBDCD05}.Release|Any CPU.Build.0 = Release|Any CPU
-		{44FDB5C7-46E7-4341-8753-5320EF76A31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{44FDB5C7-46E7-4341-8753-5320EF76A31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{44FDB5C7-46E7-4341-8753-5320EF76A31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{44FDB5C7-46E7-4341-8753-5320EF76A31B}.Release|Any CPU.Build.0 = Release|Any CPU
 		{973F7AB7-D24B-41B2-95E6-2BDD979B7135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{973F7AB7-D24B-41B2-95E6-2BDD979B7135}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{973F7AB7-D24B-41B2-95E6-2BDD979B7135}.Release|Any CPU.ActiveCfg = Release|Any CPU

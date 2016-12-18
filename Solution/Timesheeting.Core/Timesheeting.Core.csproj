@@ -36,16 +36,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Contracts\Application\DataTransferObjects\" />
-    <Folder Include="Contracts\Application\Mappers\" />
-    <Folder Include="Contracts\Application\Queries\" />
-    <Folder Include="Contracts\Application\Repositories\" />
-    <Folder Include="Contracts\Application\Requests\" />
-    <Folder Include="Contracts\Application\Responses\" />
-    <Folder Include="Domain\Entities\" />
-    <Folder Include="Domain\Interactors\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
